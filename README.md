@@ -1,4 +1,11 @@
 # Courses
+- [ ] Ethical Hacking
+  - [ ] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications) [WIP]
+  - [ ] [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection) [WIP]
+  - [ ]
+  - [ ]
+  
+  
 - [ ] Burp Siute
   - [x] [Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/web-application-penetration-testing-with-burp-suite)
   - [x] [Advanced Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/advanced-web-application-penetration-testing-burp-suite)
