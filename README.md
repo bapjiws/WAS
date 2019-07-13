@@ -20,7 +20,8 @@
 - [ ] ZAP
   - [ ] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
 
-# Vulnerable projects
+# Vulnerable projects/CTFs
+- [ ] [Hacker101 CTF][https://ctf.hacker101.com/ctf] [WIP]
 - [ ] BadStore.net
   - [ ] [Quiz](https://www.coursera.org/learn/software-security/exam/Bn04I/badstore-quiz)
   - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
