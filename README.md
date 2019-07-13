@@ -22,7 +22,7 @@
 
 # Vulnerable projects/CTFs
 - [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
-- [ ] BadStore.net
+- [ ] BadStore.net [WIP]
   - [ ] [Quiz](https://www.coursera.org/learn/software-security/exam/Bn04I/badstore-quiz)
   - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
 
