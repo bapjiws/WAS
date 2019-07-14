@@ -16,8 +16,9 @@
 - [ ] Software Security
   - [ ] [Week 3, Web Security](https://www.coursera.org/learn/software-security/home/week/3) [WIP]
   - [ ] [Week 6, Pen Testing](https://www.coursera.org/learn/software-security/home/week/6) [WIP]
+- [ ] [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
   
-  
+# Tools
 - [ ] Burp Suite [WIP]
   - [x] [Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/web-application-penetration-testing-with-burp-suite)
   - [x] [Advanced Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/advanced-web-application-penetration-testing-burp-suite)
