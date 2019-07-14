@@ -26,13 +26,14 @@
 
 # Vulnerable projects/CTFs
 - [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
-- [ ] [OWASP Juice Shop] [WIP]
+- [ ] OWASP Juice Shop [WIP]
   - [ ] [Repo](https://github.com/bkimminich/juice-shop)
   - [ ] [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/)
   - [ ] [Hacking(and automating!) the OWASP Juice Shop](https://incognitjoe.github.io/hacking-the-juice-shop.html)
 - [ ] BadStore.net [WIP]
   - [ ] [Quiz](https://www.coursera.org/learn/software-security/exam/Bn04I/badstore-quiz)
   - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
+  - [ ] [Walkthrough](https://medium.com/syscall59/badstore-1-2-3-walkthrough-vulnhub-7816f3001333)
 
 # Books
 - [ ] [Web Hacking 101](https://leanpub.com/web-hacking-101) [WIP]
