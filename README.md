@@ -18,9 +18,10 @@
   - [ ] [Week 6, Pen Testing](https://www.coursera.org/learn/software-security/home/week/6) [WIP]
   
   
-- [ ] Burp Suite
+- [ ] Burp Suite [WIP]
   - [x] [Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/web-application-penetration-testing-with-burp-suite)
   - [x] [Advanced Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/advanced-web-application-penetration-testing-burp-suite)
+  - [ ] [The Burp Methodology](https://support.portswigger.net/customer/portal/articles/2326039-the-burp-methodology)
 - [ ] ZAP
   - [ ] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
 
