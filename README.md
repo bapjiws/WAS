@@ -41,3 +41,4 @@
 
 # Books
 - [ ] [Web Hacking 101](https://leanpub.com/web-hacking-101) [WIP]
+- [ ] [The Ultimate Guide to Managed Bug Bounty](https://www.bugcrowd.com/resources/guides/the-ultimate-guide-to-managed-bug-bounty/#bcform)
