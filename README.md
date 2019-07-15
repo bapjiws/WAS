@@ -33,7 +33,7 @@
   - [ ] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
 
-# Vulnerable projects/CTFs
+# Vulnerable web apps/CTFs
 - [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
 - [ ] OWASP Juice Shop [WIP]
   - [ ] [Repo](https://github.com/bkimminich/juice-shop)
