@@ -1,5 +1,5 @@
 # Courses
-- [ ] Ethical Hacking
+- [ ] [Ethical Hacking](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
   - [ ] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications) [WIP]
   - [ ] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers)
   - [ ] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting) 
