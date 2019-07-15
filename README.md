@@ -47,3 +47,4 @@
 # Books
 - [ ] [Web Hacking 101](https://leanpub.com/web-hacking-101) [WIP]
 - [ ] [The Ultimate Guide to Managed Bug Bounty](https://www.bugcrowd.com/resources/guides/the-ultimate-guide-to-managed-bug-bounty/#bcform)
+- [] [The Web Application Hacker's Handbook](https://repo.zenk-security.com/Magazine%20E-book/The%20web%20application%20hackers%20handbook%20finding%20and%20exploiting%20security%20flaws%20-ed2%202011.pdf) -- see Web Security Academy
