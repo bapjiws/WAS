@@ -13,7 +13,7 @@
   - [ ] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks)
   - [ ] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
   - [ ] [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
-- [ ] Software Security
+- [ ] [Software Security](https://www.coursera.org/learn/software-security/)
   - [ ] [Week 3, Web Security](https://www.coursera.org/learn/software-security/home/week/3) [WIP]
   - [ ] [Week 6, Pen Testing](https://www.coursera.org/learn/software-security/home/week/6) [WIP]
 - [ ] [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
