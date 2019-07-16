@@ -22,6 +22,10 @@
   - [ ] [Bugcrowd University - Introduction + Become a Bug Bounty Hunter](https://www.youtube.com/watch?v=EZzAl-bfu7Q) [WIP]
 
 - [ ] [Web Security Academy](https://portswigger.net/web-security)
+
+- [ ] [Hacker101](https://www.hacker101.com/)
+  - [ ] [Videos](https://www.hacker101.com/videos)
+  - [ ] [Resources](https://www.hacker101.com/resources)
   
 # Tools
 - [ ] Burp Suite [WIP]
