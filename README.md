@@ -50,7 +50,7 @@
   - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
   - [ ] [Walkthrough](https://medium.com/syscall59/badstore-1-2-3-walkthrough-vulnhub-7816f3001333)
 
-- [ ] bWAPP(http://www.itsecgames.com/)
+- [ ] [bWAPP](http://www.itsecgames.com/)
 
 # Books
 - [ ] [Web Hacking 101](https://leanpub.com/web-hacking-101) [WIP]
