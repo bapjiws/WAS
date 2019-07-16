@@ -34,19 +34,23 @@
   - [ ] [Introduction to Burp Suite](https://www.bugcrowd.com/resources/webinars/introduction-to-burp-suite/)
   - [ ] [The Burp Methodology](https://support.portswigger.net/customer/portal/articles/2326039-the-burp-methodology)
 - [ ] ZAP
-  - [ ] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
+  - [x] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
 
 # Vulnerable web apps/CTFs
 - [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
+
 - [ ] OWASP Juice Shop [WIP]
   - [ ] [Repo](https://github.com/bkimminich/juice-shop)
   - [ ] [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/)
   - [ ] [Hacking(and automating!) the OWASP Juice Shop](https://incognitjoe.github.io/hacking-the-juice-shop.html)
+
 - [ ] BadStore.net [WIP]
   - [ ] [Quiz](https://www.coursera.org/learn/software-security/exam/Bn04I/badstore-quiz)
   - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
   - [ ] [Walkthrough](https://medium.com/syscall59/badstore-1-2-3-walkthrough-vulnhub-7816f3001333)
+
+- [ ] bWAPP(http://www.itsecgames.com/)
 
 # Books
 - [ ] [Web Hacking 101](https://leanpub.com/web-hacking-101) [WIP]
