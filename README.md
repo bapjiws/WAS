@@ -28,6 +28,7 @@
   - [ ] [Resources](https://www.hacker101.com/resources)
   
 # Tools
+## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
   - [x] [Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/web-application-penetration-testing-with-burp-suite)
   - [x] [Advanced Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/advanced-web-application-penetration-testing-burp-suite)
@@ -36,6 +37,10 @@
 - [ ] ZAP
   - [x] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
+## Other tools
+- [ ] Network discovery and security auditing
+  - [ ] [Nmap](https://nmap.org/) and [Zenmap](https://nmap.org/zenmap/)
+  - [ ] []()
 
 # Vulnerable web apps/CTFs
 - [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
