@@ -38,7 +38,7 @@
   - [x] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
 ## Other tools
-- [ ] Network discovery/security auditing/server fingerprinting - [Nmap](https://nmap.org/): [manual](https://nmap.org/book/man.html)
+- [ ] Network discovery/security auditing/server fingerprinting - [Nmap](https://nmap.org/) ([manual](https://nmap.org/book/man.html))
 - [ ] 
 
 
@@ -53,7 +53,7 @@
 - [ ] BadStore.net [WIP]
   - [x] [Quiz](https://www.coursera.org/learn/software-security/exam/Bn04I/badstore-quiz)
   - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
-  - [ ] [Pen-testing: Badstore v1.2.3 Walkthrough — Vulnhub](https://medium.com/syscall59/badstore-1-2-3-walkthrough-vulnhub-7816f3001333)
+  - [x] [Pen-testing: Badstore v1.2.3 Walkthrough — Vulnhub](https://medium.com/syscall59/badstore-1-2-3-walkthrough-vulnhub-7816f3001333)
   - [ ] [BadStore SQLi Writeup](https://armerj.github.io/SQLi-BadStore/)
 
 - [ ] [bWAPP](http://www.itsecgames.com/)
