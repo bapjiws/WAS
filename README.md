@@ -39,7 +39,7 @@
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
 ## Other tools
 - [ ] Network discovery/security auditing/server fingerprinting - [Nmap](https://nmap.org/) ([manual](https://nmap.org/book/man.html))
-- [ ] 
+- [ ] [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 
 
 # Vulnerable web apps/CTFs
