@@ -38,9 +38,9 @@
   - [x] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
 ## Other tools
-- [ ] Network discovery and security auditing
-  - [ ] [Nmap](https://nmap.org/) and [Zenmap](https://nmap.org/zenmap/)
-  - [ ] []()
+- [ ] Network discovery/security auditing/server fingerprinting - [Nmap](https://nmap.org/): [manual](https://nmap.org/book/man.html)
+- [ ] 
+
 
 # Vulnerable web apps/CTFs
 - [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
