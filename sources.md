@@ -52,7 +52,7 @@
 
 - [ ] BadStore.net [WIP]
   - [x] [Quiz](https://www.coursera.org/learn/software-security/exam/Bn04I/badstore-quiz)
-  - [ ] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
+  - [x] [Manual](https://d28rh4a8wq0iu5.cloudfront.net/softwaresec/virtual_machine/BadStore_net_v2_1_Manual.pdf)
   - [x] [Pen-testing: Badstore v1.2.3 Walkthrough — Vulnhub](https://medium.com/syscall59/badstore-1-2-3-walkthrough-vulnhub-7816f3001333)
   - [ ] [BadStore SQLi Writeup](https://armerj.github.io/SQLi-BadStore/)
 
