@@ -1,0 +1,3 @@
+- nmap (a list of most used commands?)
+- CVE
+- Chrome plugins to find out the stack
