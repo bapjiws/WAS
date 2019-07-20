@@ -66,6 +66,6 @@
 - [ ] [The Web Application Hacker's Handbook](https://repo.zenk-security.com/Magazine%20E-book/The%20web%20application%20hackers%20handbook%20finding%20and%20exploiting%20security%20flaws%20-ed2%202011.pdf) -- see Web Security Academy
 
 # Reconnaissance -- flow and tools
-- [] [Recon — my way.](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
-- [] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
-- [] [A toolset to track and organize output of reconnaissance tools](https://github.com/jobertabma/recon.sh)
+- [ ] [Recon — my way.](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
+- [ ] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
+- [ ] [A toolset to track and organize output of reconnaissance tools](https://github.com/jobertabma/recon.sh)
