@@ -1,5 +1,6 @@
 # Nomenclature
-[ ] - [Common Weakness Enumeration](https://cwe.mitre.org/)
+- [ ] [Common Weakness Enumeration](https://cwe.mitre.org/)
+- [ ] [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 # Courses
 - [ ] [Ethical Hacking](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
