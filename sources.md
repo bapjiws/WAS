@@ -1,3 +1,6 @@
+# Nomenclature
+[ ] - [Common Weakness Enumeration](https://cwe.mitre.org/)
+
 # Courses
 - [ ] [Ethical Hacking](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
   - [ ] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications) [WIP]
