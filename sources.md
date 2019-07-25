@@ -73,3 +73,6 @@
 - [ ] [Recon — my way.](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
 - [ ] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
 - [ ] [A toolset to track and organize output of reconnaissance tools](https://github.com/jobertabma/recon.sh)
+- [ ] [Pentester Land](https://pentester.land/)
+  - [ ] [Conference notes: Practical recon techniques for bug hunters & pen testers](https://pentester.land/conference-notes/2018/10/17/levelup-2018-practical-recon-techniques-for-bug-hunters-and-pentesters.html)
+  - [ ] [Conference notes: Esoteric subdomain enumeration techniques](https://pentester.land/conference-notes/2018/04/25/levelup-2017-Esoteric-subdomain-enumeration-techniques.html)
