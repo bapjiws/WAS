@@ -81,3 +81,4 @@
 - [ ] [Pentester Land](https://pentester.land/)
   - [ ] [Conference notes: Practical recon techniques for bug hunters & pen testers](https://pentester.land/conference-notes/2018/10/17/levelup-2018-practical-recon-techniques-for-bug-hunters-and-pentesters.html)
   - [ ] [Conference notes: Esoteric subdomain enumeration techniques](https://pentester.land/conference-notes/2018/04/25/levelup-2017-Esoteric-subdomain-enumeration-techniques.html)
+- [ ] [Offensive Approach to Hunt Bugs (Manual Bug Bounty Hunting)](https://www.youtube.com/watch?v=w5MZ6xdCci0)
