@@ -44,6 +44,11 @@
 ## Other tools
 - [ ] Network discovery/security auditing/server fingerprinting - [Nmap](https://nmap.org/) ([manual](https://nmap.org/book/man.html))
 - [ ] [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
+## Fuzzing
+- [ ] [SecLists](https://github.com/danielmiessler/SecLists)
+- [ ] [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+## Cheat Sheets
+- [ ] [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 
 
 # Vulnerable web apps/CTFs
