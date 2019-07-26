@@ -6,7 +6,7 @@
 - [ ] [Ethical Hacking](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
   - [x] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications)
   - [ ] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers)
-  - [ ] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting) 
+  - [ ] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting) [WIP]
   - [ ] [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks)
   - [ ] [Ethical Hacking: Enumeration](https://app.pluralsight.com/library/courses/ethical-hacking-enumeration)
   - [ ] [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing)
@@ -18,9 +18,9 @@
   - [ ] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
   - [ ] [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
 
-- [ ] [Software Security](https://www.coursera.org/learn/software-security/)
-  - [ ] [Week 3, Web Security](https://www.coursera.org/learn/software-security/home/week/3) [WIP]
-  - [ ] [Week 6, Pen Testing](https://www.coursera.org/learn/software-security/home/week/6) [WIP]
+- [x] [Software Security, selected](https://www.coursera.org/learn/software-security/)
+  - [x] [Week 3, Web Security](https://www.coursera.org/learn/software-security/home/week/3)
+  - [x] [Week 6, Pen Testing](https://www.coursera.org/learn/software-security/home/week/6)
 
 - [ ] [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
   - [ ] [Bugcrowd University - Introduction + Become a Bug Bounty Hunter](https://www.youtube.com/watch?v=EZzAl-bfu7Q) [WIP]
