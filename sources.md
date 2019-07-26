@@ -3,7 +3,7 @@
 - [ ] [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 # Courses
-- [ ] [Ethical Hacking](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
+- [ ] [Ethical Hacking Path](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
   - [x] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications)
   - [ ] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers)
   - [ ] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting) [WIP]
