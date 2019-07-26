@@ -84,6 +84,6 @@
 - [ ] [Offensive Approach to Hunt Bugs (Manual Bug Bounty Hunting)](https://www.youtube.com/watch?v=w5MZ6xdCci0)
 
 # Penetration testing and secutiry -- (commercial) tools
-- [ ] [Metasploit(penetration testing framework)](https://www.metasploit.com/)
+- [ ] [Metasploit (penetration testing framework)](https://www.metasploit.com/)
 - [ ] [Nessus (vulnerability assessment)](https://www.tenable.com/products/nessus)
 
