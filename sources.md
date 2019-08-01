@@ -1,6 +1,6 @@
 # Nomenclature
-- [ ] [Common Weakness Enumeration](https://cwe.mitre.org/)
-- [ ] [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [Common Weakness Enumeration](https://cwe.mitre.org/)
+- [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 # Courses
 - [ ] [Ethical Hacking Path](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
@@ -84,7 +84,9 @@
 - [ ] [Offensive Approach to Hunt Bugs (Manual Bug Bounty Hunting)](https://www.youtube.com/watch?v=w5MZ6xdCci0)
 
 # Penetration testing and secutiry -- (commercial) tools
+## Commercial
 - [Metasploit (penetration testing framework)](https://www.metasploit.com/)
 - [Nessus (vulnerability assessment)](https://www.tenable.com/products/nessus)
+## Free
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
