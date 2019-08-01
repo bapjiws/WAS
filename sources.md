@@ -5,8 +5,8 @@
 # Courses
 - [ ] [Ethical Hacking Path](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
   - [x] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications)
-  - [ ] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers)
-  - [ ] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting) [WIP]
+  - [ ] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers) [WIP]
+  - [x] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
   - [ ] [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks)
   - [ ] [Ethical Hacking: Enumeration](https://app.pluralsight.com/library/courses/ethical-hacking-enumeration)
   - [ ] [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing)
@@ -84,6 +84,7 @@
 - [ ] [Offensive Approach to Hunt Bugs (Manual Bug Bounty Hunting)](https://www.youtube.com/watch?v=w5MZ6xdCci0)
 
 # Penetration testing and secutiry -- (commercial) tools
-- [ ] [Metasploit (penetration testing framework)](https://www.metasploit.com/)
-- [ ] [Nessus (vulnerability assessment)](https://www.tenable.com/products/nessus)
+- [Metasploit (penetration testing framework)](https://www.metasploit.com/)
+- [Nessus (vulnerability assessment)](https://www.tenable.com/products/nessus)
+- [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
