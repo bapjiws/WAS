@@ -83,10 +83,13 @@
   - [ ] [Conference notes: Esoteric subdomain enumeration techniques](https://pentester.land/conference-notes/2018/04/25/levelup-2017-Esoteric-subdomain-enumeration-techniques.html)
 - [ ] [Offensive Approach to Hunt Bugs (Manual Bug Bounty Hunting)](https://www.youtube.com/watch?v=w5MZ6xdCci0)
 
-# Penetration testing and secutiry -- (commercial) tools
+# Penetration testing and secutiry tools
 ## Commercial
 - [Metasploit (penetration testing framework)](https://www.metasploit.com/)
 - [Nessus (vulnerability assessment)](https://www.tenable.com/products/nessus)
+- [Shodan(search engine for Internet-connected devices)](https://www.shodan.io/)
+- [Acunetix (website security scanner)](https://www.acunetix.com/)
+- [Netsparker (web application security solution)](https://www.netsparker.com/)
 ## Free
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
