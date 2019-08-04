@@ -1,5 +1,3 @@
-```wget --mirror –w 2 –p --adjust-extension –-convert-links –P localhost:3000```
-
 ```
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://example.org
 ```
