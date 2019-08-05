@@ -16,10 +16,11 @@ wget -mkEpnp http://example.org
 - `no-parent` – When recursing do not ascend to the parent directory. It useful for restricting the download to only a portion of the site.
 
 
-```grep -r -E -o ".{0,1}path.{0,20}" *.js```
+```grep -r -E -o -i ".{0,1}path.{0,20}" *.js```
 
 -o print only the matching string
 -r (--recursive) recursively search for a pattern. This will search through all files in the specified directory, skipping the symlinks that are encountered recursively. To follow all symbolic links, use the -R option (or --dereference-recursive).
 -E (--extended-regexp)
+-i case insensitive search
 
 Make sure to put the quotes around your expression, else it might be interpreted by the shell.
