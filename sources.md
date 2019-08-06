@@ -99,3 +99,5 @@
 ## Free
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
+# Conferences
+- [DEF CON](https://www.defcon.org/)
