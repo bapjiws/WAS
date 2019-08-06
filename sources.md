@@ -39,6 +39,7 @@
 - Recon-ng
   - [Recon-ng Package Description](https://tools.kali.org/information-gathering/recon-ng)
   - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
+- [Intrigue-core (framework for external attack surface discovery and automated OSINT)](https://github.com/intrigueio/intrigue-core)
 - [ ] [TODO: check the Mapping list from jhaddix](https://github.com/jhaddix/tbhm/blob/master/03_Mapping.md)
 
 ## Swiss-army-knife proxies
