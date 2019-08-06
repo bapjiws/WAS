@@ -88,6 +88,7 @@
 
 # Bug hunting
 - [ ] [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w&feature=youtu.be)
+- [ ] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI)
 
 # Penetration testing and secutiry tools
 ## Commercial
