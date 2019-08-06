@@ -31,6 +31,9 @@
   - [ ] [Videos](https://www.hacker101.com/videos)
   - [ ] [Resources](https://www.hacker101.com/resources)
   
+# Sources
+- [Bugcrowd forums](https://forum.bugcrowd.com/c/ask-a-hacker)
+  
 # Tools
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
