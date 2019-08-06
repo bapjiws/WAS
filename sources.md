@@ -93,8 +93,11 @@
 - [ ] [Offensive Approach to Hunt Bugs (Manual Bug Bounty Hunting)](https://www.youtube.com/watch?v=w5MZ6xdCci0)
 
 # Bug hunting
+## Presentations
 - [ ] [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w&feature=youtu.be)
 - [ ] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI)
+## Resources
+- [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
 
 # Penetration testing and secutiry tools
 ## Commercial
