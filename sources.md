@@ -35,6 +35,11 @@
 - [Bugcrowd forums](https://forum.bugcrowd.com/c/ask-a-hacker)
   
 # Tools
+## Reconnaissance
+- Recon-ng
+  - [Recon-ng Package Description](https://tools.kali.org/information-gathering/recon-ng)
+  - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
+
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
   - [x] [Web Application Penetration Testing with Burp Suite](https://app.pluralsight.com/library/courses/web-application-penetration-testing-with-burp-suite)
