@@ -14,7 +14,7 @@ wget -mkEpnp http://example.org
 - `page-requisites` – Download things like CSS style-sheets and images required to properly display the page offline.
 - `no-parent` – When recursing do not ascend to the parent directory. It useful for restricting the download to only a portion of the site.
 
--
+---
 
 ```grep -r -E -o -i ".{0,1}path.{0,20}" *.js```
 
@@ -25,7 +25,7 @@ wget -mkEpnp http://example.org
 
 Make sure to put the quotes around your expression, else it might be interpreted by the shell.
 
--
+---
 
 ```nmap -sS -A -PN -p- --script=http-title dontscanme.bro```
 
