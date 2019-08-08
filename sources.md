@@ -5,15 +5,15 @@
 # Courses
 - [ ] [Ethical Hacking Path](https://app.pluralsight.com/paths/skills/ethical-hacking-fundamentals)
   - [x] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications)
-  - [ ] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers) [WIP]
+  - [x] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers)
   - [x] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
   - [ ] [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks)
-  - [ ] [Ethical Hacking: Enumeration](https://app.pluralsight.com/library/courses/ethical-hacking-enumeration)
+  - [ ] [Ethical Hacking: Enumeration](https://app.pluralsight.com/library/courses/ethical-hacking-enumeration) [WIP]
   - [ ] [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing)
   - [ ] [Ethical Hacking: Denial of Service](https://app.pluralsight.com/library/courses/ethical-hacking-denial-service)
   - [ ] [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots)
   - [ ] [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection) [WIP]
-  - [ ] [Ethical Hacking: Session Hijacking](https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking/table-of-contents)
+  - [x] [Ethical Hacking: Session Hijacking](https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking/table-of-contents)
   - [ ] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks)
   - [ ] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
   - [ ] [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
@@ -99,8 +99,9 @@
 
 # Bug hunting
 ## Presentations
+- [ ] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI) [WIP]
 - [ ] [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w&feature=youtu.be)
-- [ ] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI)
+- [ ] [The Bug Hunter's Methodology 2.0](https://www.youtube.com/watch?v=HI1mTQ7ovFY)
 ## Resources
 - [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
 
