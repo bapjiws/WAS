@@ -56,6 +56,8 @@
 - [LFI-Jhaddix list](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-Jhaddix.txt)
 # Privilege
 - [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
+# Transport
+- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
