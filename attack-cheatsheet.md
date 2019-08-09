@@ -129,4 +129,11 @@ Logic flaws that are tricky, mostly manual:
 - application level DoS
 - Timing attacks
 
+# The vulns formerly known as “noise”
+- Content Spoofing or HTML injection
+- Referer leakage
+- security headers
+- path disclosure
+- clickjacking
+- ++
 
