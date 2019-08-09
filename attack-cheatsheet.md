@@ -87,4 +87,15 @@ CSRF Common Critical functions:
 - Delete File 
 - Profile edit
 
-
+# Privilege
+1. Find site functionality that is restricted to certain user types
+2. Try accessing those functions with lesser/other user roles
+3. Try to directly browse to views with sensitive information as a lesser priv user
+Common Functions or Views:
+- Add user function
+- Delete user function
+- start project / campaign / etc function
+- change account info (pass, CC, etc) function
+- customer analytics view
+- payment processing view
+- any view with PII
