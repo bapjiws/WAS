@@ -113,7 +113,7 @@
 
 # Bug hunting
 ## Presentations
-- [ ] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI) [WIP]
+- [x] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI)
 - [ ] [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w&feature=youtu.be)
 - [ ] [The Bug Hunter's Methodology 2.0](https://www.youtube.com/watch?v=HI1mTQ7ovFY)
 ## Resources
