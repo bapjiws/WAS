@@ -120,4 +120,13 @@ Common Functions , Views, or Files:
 - Shipping info & Purchase Orders
 - Sending / Deleting messages
 
+# Logic
+Logic flaws that are tricky, mostly manual:
+- substituting hashed parameters
+- step manipulation
+- use negatives in quantities
+- authentication bypass
+- application level DoS
+- Timing attacks
+
 
