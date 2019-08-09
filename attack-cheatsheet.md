@@ -79,5 +79,12 @@ Many sites will have CSRF protection, focus on CSRF bypass! Common bypasses:
 - Use a second identical CSRF param
 - Change POST to GET
 
+CSRF Common Critical functions:
+- Add / Upload file 
+- Password change
+- Email change 
+- Transfer Money / Currency
+- Delete File 
+- Profile edit
 
 
