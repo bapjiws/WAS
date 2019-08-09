@@ -43,8 +43,10 @@
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
   - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
+## Fuzzing
+### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool
-- [ ] [TODO: check the Mapping list from jhaddix](https://github.com/jhaddix/tbhm/blob/master/03_Mapping.md)
+- [LFI-Jhaddix list](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-Jhaddix.txt)
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
