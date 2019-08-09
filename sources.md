@@ -54,6 +54,8 @@
 ### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool
 - [LFI-Jhaddix list](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-Jhaddix.txt)
+# Privilege
+- [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
