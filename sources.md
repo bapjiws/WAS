@@ -108,11 +108,11 @@
 
 # Penetration testing and secutiry tools
 ## Commercial
-- [Metasploit, penetration testing framework](https://www.metasploit.com/)
-- [Nessus, vulnerability assessment](https://www.tenable.com/products/nessus)
-- [Shodan, search engine for Internet-connected devices](https://www.shodan.io/)
-- [Acunetix, website security scanner](https://www.acunetix.com/)
-- [Netsparker, web application security solution](https://www.netsparker.com/)
+- [Metasploit](https://www.metasploit.com/), penetration testing framework
+- [Nessus](https://www.tenable.com/products/nessus), vulnerability assessment
+- [Shodan](https://www.shodan.io/), search engine for Internet-connected devices
+- [Acunetix,](https://www.acunetix.com/) website security scanner
+- [Netsparker](https://www.netsparker.com/), web application security solution
 ## Free
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
