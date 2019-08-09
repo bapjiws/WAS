@@ -120,7 +120,7 @@ Common Functions , Views, or Files:
 - Shipping info & Purchase Orders
 - Sending / Deleting messages
 
-# Logic
+# Business logic flaws
 Logic flaws that are tricky, mostly manual:
 - substituting hashed parameters
 - step manipulation
@@ -136,4 +136,10 @@ Logic flaws that are tricky, mostly manual:
 - path disclosure
 - clickjacking
 - ++
+
+# Transport
+Most security concerned sites will enable HTTPs. It’s your job to ensure they’ve done it EVERYWHERE. Most of the time they miss something. Examples:
+- Sensitive images transported over HTTP
+- Analytics with session data / PII leaked over HTTP
+
 
