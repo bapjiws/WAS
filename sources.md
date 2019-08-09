@@ -49,6 +49,7 @@
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 ## CSRF
 - [Burpy](https://github.com/debasishm89/burpy), a tool for automating finding CSRF
+- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/blob/master/BurpExtensions/csrf_token_detect.py) to find pages without the token in Burp
 ## Fuzzing
 ### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool
