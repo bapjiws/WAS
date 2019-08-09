@@ -44,6 +44,7 @@
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
   - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
 - [ ] [TODO: check the Mapping list from jhaddix](https://github.com/jhaddix/tbhm/blob/master/03_Mapping.md)
+- [Liffy, Local File Inclusion Exploitation tool](https://github.com/hvqzao/liffy)
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
