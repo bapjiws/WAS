@@ -57,7 +57,7 @@
 # Privilege
 - [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
 # Transport
-- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links
+- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links in Burp
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
