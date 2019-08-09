@@ -43,6 +43,12 @@
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
   - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
+## XSS
+- [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
+## SQLi
+- [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
+## CSRF
+- [Burpy](https://github.com/debasishm89/burpy), a tool for automating finding CSRF
 ## Fuzzing
 ### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool
