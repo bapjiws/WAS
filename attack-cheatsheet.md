@@ -72,3 +72,16 @@ pdf=
 template=
 php_path=
 doc=
+
+# CSRF
+The TLDR is to find sensitive functions and attempt to CSRF.
+Burps CSRF PoC is fast and easy for this.
+Many sites will have CSRF protection, focus on CSRF bypass! Common bypasses:
+- Remove CSRF token from request
+- Remove CSRF token parameter value
+- Add bad control chars to CSRF parameter value
+- Use a second identical CSRF param
+- Change POST to GET
+
+
+
