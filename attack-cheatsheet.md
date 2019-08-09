@@ -1,5 +1,7 @@
 First try polyglots, for exanple: https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt
 
+[Using Burp with SQLMap](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
+
 # Probably temp stuff
 Input Vectors for XSS:
 - Customizable Themes & Profiles via CSS
