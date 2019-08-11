@@ -31,6 +31,8 @@
   - [ ] [Videos](https://www.hacker101.com/videos)
   - [ ] [Resources](https://www.hacker101.com/resources)
   
+- [ ] [Penetration Testing and Ethical Hacking with Kali Linux](https://www.pluralsight.com/courses/kali-linux-penetration-testing-ethical-hacking)
+  
 # Sources
 - [Bugcrowd forums](https://forum.bugcrowd.com/c/ask-a-hacker)
   
