@@ -48,7 +48,7 @@
 - [recon.sh](https://github.com/jobertabma/recon.sh), a toolset to track and organize output of reconnaissance tools
 ## Network analysis
 - [Wireshark](https://www.wireshark.org/), network protocol analyzer
-
+- [Nmap](https://nmap.org/), network discovery/security auditing/server fingerprinting (also see [Zenmap](https://nmap.org/zenmap/), a GUI for the Nmap Security Scanner)
 ## XSS
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
 ## SQLi
@@ -75,7 +75,6 @@
   - [x] [Getting Started with OWASP Zed Attack Proxy (ZAP) for Web Application Penetration Testing](https://app.pluralsight.com/library/courses/owasp-zap-web-app-pentesting-getting-started) [WIP]
   - [ ] [How to Use Zap + using Zap HUD in your browser](https://www.bugcrowd.com/resources/webinars/how-to-use-zap-using-zap-hud-in-your-browser)
 ## Other tools
-- [ ] Network discovery/security auditing/server fingerprinting - [Nmap](https://nmap.org/) ([manual](https://nmap.org/book/man.html))
 - [ ] [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 ## Fuzzing
 - [ ] [SecLists](https://github.com/danielmiessler/SecLists)
