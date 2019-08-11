@@ -46,6 +46,9 @@
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
   - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
 - [recon.sh](https://github.com/jobertabma/recon.sh), a toolset to track and organize output of reconnaissance tools
+## Network analysis
+- [Wireshark](https://www.wireshark.org/), network protocol analyzer
+
 ## XSS
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
 ## SQLi
