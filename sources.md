@@ -113,7 +113,6 @@
 - [ ] [OWASP Testing Guide v4](https://www.owasp.org/images/1/19/OTGv4.pdf)
 
 # Reconnaissance -- flow and tools
-- [ ] [Recon — my way.](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
 - [ ] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
 - [ ] [Pentester Land](https://pentester.land/)
   - [ ] [Conference notes: Practical recon techniques for bug hunters & pen testers](https://pentester.land/conference-notes/2018/10/17/levelup-2018-practical-recon-techniques-for-bug-hunters-and-pentesters.html)
