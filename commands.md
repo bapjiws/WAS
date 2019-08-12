@@ -41,3 +41,6 @@ Tells Nmap to skip the ping test and simply scan every target host provided. Oth
 
 `-p-`
 Omit beginning and end numbers to scan the whole range (excluding zero).
+
+`--script=http-title` / `--script http-title`
+ Get the title of the web page from a web server.
