@@ -51,6 +51,8 @@
 - [Nmap](https://nmap.org/), network discovery/security auditing/server fingerprinting (also see [Zenmap](https://nmap.org/zenmap/), a GUI for the Nmap Security Scanner)
 - [Angry IP Scanner](https://angryip.org/), network scanner
 - [hping3](https://tools.kali.org/information-gathering/hping3), TCP/IP packet assembler/analyzer
+## Firewalking
+- [Firewalk](https://tools.kali.org/information-gathering/firewalk)
 
 ## XSS
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
