@@ -142,4 +142,6 @@ Most security concerned sites will enable HTTPs. Itâ€™s your job to ensure theyâ
 - Sensitive images transported over HTTP
 - Analytics with session data / PII leaked over HTTP
 
+# [Port Scanning Techniques](https://nmap.org/book/man-port-scanning-techniques.html)
+
 
