@@ -127,7 +127,7 @@
 ## Resources
 - [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
 
-# Penetration testing and secutiry tools
+# Penetration testing / vulnerability scanning tools
 ## Commercial
 - [Metasploit](https://www.metasploit.com/), penetration testing framework
 - [Nessus](https://www.tenable.com/products/nessus), vulnerability assessment
