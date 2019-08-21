@@ -41,6 +41,7 @@
 - Recon-ng
   - [Recon-ng Package Description](https://tools.kali.org/information-gathering/recon-ng)
   - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
+  - [Tutorial](https://hackertarget.com/recon-ng-tutorial/)
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
