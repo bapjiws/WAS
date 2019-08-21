@@ -111,6 +111,8 @@
 - [ ] [The Ultimate Guide to Managed Bug Bounty](https://www.bugcrowd.com/resources/guides/the-ultimate-guide-to-managed-bug-bounty/#bcform)
 - [ ] [The Web Application Hacker's Handbook](https://repo.zenk-security.com/Magazine%20E-book/The%20web%20application%20hackers%20handbook%20finding%20and%20exploiting%20security%20flaws%20-ed2%202011.pdf) -- see Web Security Academy
 - [ ] [OWASP Testing Guide v4](https://www.owasp.org/images/1/19/OTGv4.pdf)
+- [ ] [Breaking into Information Security: Learning the Ropes 101](https://kyhwana.keybase.pub/books/breaking%20into%20infosec%20.pdf)
+- [ ] [Mastering Modern Web Penetration Testing](https://github.com/thecyberhex/books/blob/master/Mastering%20Modern%20Web%20Penetration%20Testing.pdf)
 
 # Reconnaissance -- flow and tools
 - [ ] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
