@@ -42,7 +42,8 @@
   - [Recon-ng Package Description](https://tools.kali.org/information-gathering/recon-ng)
   - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
   - [Tutorial](https://hackertarget.com/recon-ng-tutorial/)
-  - [Repo](https://github.com/lanmaster53/recon-ng) + [installation fix](https://stackoverflow.com/a/50868994/4134960) 
+  - [Repo](https://github.com/lanmaster53/recon-ng) + [installation fix](https://stackoverflow.com/a/50868994/4134960)
+- [Sublist3r](https://github.com/aboul3la/Sublist3r), fast subdomains enumeration tool
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
