@@ -44,6 +44,7 @@
   - [Tutorial](https://hackertarget.com/recon-ng-tutorial/)
   - [Repo](https://github.com/lanmaster53/recon-ng) + [installation fix](https://stackoverflow.com/a/50868994/4134960)
 - [Sublist3r](https://github.com/aboul3la/Sublist3r), fast subdomains enumeration tool
+- [brutesubs](https://github.com/anshumanbh/brutesubs), an automation framework for running multiple open sourced subdomain bruteforcing tools
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
