@@ -60,7 +60,6 @@
     - [in Kali](https://tools.kali.org/information-gathering/masscan)
   - nmap (much slower)
 
-
 - Info like acquisition
   - [Crunchbase](https://www.crunchbase.com/), discover innovative companies and the people behind them
 
@@ -68,6 +67,12 @@
   - EyeWitness -- take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
     - [repo](https://github.com/FortyNorthSecurity/EyeWitness)
     - [in Kali](https://tools.kali.org/information-gathering/eyewitness)
+
+- Platform identification and CVE searching
+  - [Retire.js](https://retirejs.github.io/retire.js/)
+  - [Wappalyzer](https://www.wappalyzer.com)
+  - [BuiltWith](https://builtwith.com/)
+  - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
 
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 
