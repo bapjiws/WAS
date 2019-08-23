@@ -40,7 +40,7 @@
 ## Reconnaissance
 - Scraping
   - Recon-ng
-    - [Recon-ng Package Description](https://tools.kali.org/information-gathering/recon-ng)
+    - [in Kali](https://tools.kali.org/information-gathering/recon-ng)
     - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
     - [Tutorial](https://hackertarget.com/recon-ng-tutorial/)
     - [Repo](https://github.com/lanmaster53/recon-ng) + [installation fix](https://stackoverflow.com/a/50868994/4134960)
