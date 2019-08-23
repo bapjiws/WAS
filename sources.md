@@ -52,6 +52,9 @@
     - [in Kali](https://tools.kali.org/web-applications/gobuster)
   - massdns, a high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
     - [repo](https://github.com/blechschmidt/massdns)
+  - [all wordlists from every DNS enumeration tool ever](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)
+
+- [Crunchbase](https://www.crunchbase.com/), discover innovative companies and the people behind them
 
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 - Directory brute-forcing lists
