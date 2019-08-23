@@ -7,12 +7,12 @@
   - [x] [Ethical Hacking: Hacking Web Applications](https://app.pluralsight.com/library/courses/ethical-hacking-web-applications)
   - [x] [Ethical Hacking: Hacking Web Servers](https://app.pluralsight.com/library/courses/ethical-hacking-web-servers)
   - [x] [Ethical Hacking: Reconnaissance/Footprinting](https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting)
-  - [ ] [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks) [WIP]
+  - [x] [Ethical Hacking: Scanning Networks](https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks)
   - [x] [Ethical Hacking: Enumeration](https://app.pluralsight.com/library/courses/ethical-hacking-enumeration)
-  - [ ] [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing)
+  - [x] [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing)
   - [ ] [Ethical Hacking: Denial of Service](https://app.pluralsight.com/library/courses/ethical-hacking-denial-service)
-  - [ ] [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots)
-  - [ ] [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection) [WIP]
+  - [ ] [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots) [WIP]
+  - [x] [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection)
   - [x] [Ethical Hacking: Session Hijacking](https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking/table-of-contents)
   - [ ] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks)
   - [ ] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
