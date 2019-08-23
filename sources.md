@@ -48,10 +48,10 @@
 
 - Subdomain bruteforcing
   - gobuster, directory/file, DNS and VHost busting tool 
-   - [repo](https://github.com/OJ/gobuster)
-   - [in Kali](https://tools.kali.org/web-applications/gobuster)
- - massdns, a high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-  - [repo](https://github.com/blechschmidt/massdns)
+    - [repo](https://github.com/OJ/gobuster)
+    - [in Kali](https://tools.kali.org/web-applications/gobuster)
+  - massdns, a high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+    - [repo](https://github.com/blechschmidt/massdns)
 
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 - Directory brute-forcing lists
