@@ -61,7 +61,13 @@
   - nmap (much slower)
 
 
-- [Crunchbase](https://www.crunchbase.com/), discover innovative companies and the people behind them
+- Info like acquisition
+  - [Crunchbase](https://www.crunchbase.com/), discover innovative companies and the people behind them
+
+- Visual identification
+  - EyeWitness -- take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
+    - [repo](https://github.com/FortyNorthSecurity/EyeWitness)
+    - [in Kali](https://tools.kali.org/information-gathering/eyewitness)
 
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 
