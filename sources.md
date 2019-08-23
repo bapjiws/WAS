@@ -54,13 +54,22 @@
     - [repo](https://github.com/blechschmidt/massdns)
   - [all wordlists from every DNS enumeration tool ever](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)
 
+- Port scanning
+  - masscan
+    - [repo](https://github.com/robertdavidgraham/masscan)
+    - [in Kali](https://tools.kali.org/information-gathering/masscan)
+  - nmap (much slower)
+
+
 - [Crunchbase](https://www.crunchbase.com/), discover innovative companies and the people behind them
 
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
+
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
   - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
 - [recon.sh](https://github.com/jobertabma/recon.sh), a toolset to track and organize output of reconnaissance tools
+
 ## Network analysis
 - [Wireshark](https://www.wireshark.org/), network protocol analyzer
 - [Nmap](https://nmap.org/), network discovery/security auditing/server fingerprinting (also see [Zenmap](https://nmap.org/zenmap/), a GUI for the Nmap Security Scanner)
