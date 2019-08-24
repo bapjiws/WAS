@@ -74,6 +74,11 @@
   - [BuiltWith](https://builtwith.com/)
   - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
 
+- Content discovery / directory bruting
+  - gobuster + [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed), a curated list of the most common and most interesting robots.txt disallowed directories
+
+- Parameter bruting?
+
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 
 - Directory brute-forcing lists
