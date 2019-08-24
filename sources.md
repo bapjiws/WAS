@@ -154,6 +154,7 @@
 - [ ] [OWASP Testing Guide v4](https://www.owasp.org/images/1/19/OTGv4.pdf)
 - [ ] [Breaking into Information Security: Learning the Ropes 101](https://kyhwana.keybase.pub/books/breaking%20into%20infosec%20.pdf)
 - [ ] [Mastering Modern Web Penetration Testing](https://github.com/thecyberhex/books/blob/master/Mastering%20Modern%20Web%20Penetration%20Testing.pdf)
+- [ ] [Kali Linux Revealed – Mastering the Penetration Testing Distribution](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (or [the online course](https://kali.training/lessons/introduction/))
 
 # Reconnaissance -- flow and tools
 - [ ] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
