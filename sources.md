@@ -185,6 +185,15 @@
 # Kali Linux
 - ```apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y```
 (update the list of available packages and their versions + install newer versions of the packages + install available updates for the OS release without updating OS to a higher version)
+- Additional commands
+  - ```apt-get install preload``` (daemon that runs in the background and analyzes user behavior and frequently run applications)
+  - ```apt-get install bleachbit``` (disk space cleaner, privacy manager, and computer system optimizer)
+  - ```apt-get install bum``` (boot-up manager)
+  - ```apt-get install gnome-do``` (intelligent launcher that also allows to perform specific tasks on the search result)
+  - ```apt-get install apt-file``` (searches available packages for a specific file or files. The packages do not need to be installed to perform the search)
+  - ```apt-get install scrub``` (writes patterns on magnetic media to thwart data recovery)
+  - ```apt-get install shutter``` (screenshot tool)
+  - ```apt-get install figlet``` (a program for making large letters out of ordinary text)
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
