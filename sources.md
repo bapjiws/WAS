@@ -182,5 +182,9 @@
 ## Free
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
+# Kali Linux
+- ```apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y```
+(update the list of available packages and their versions + install newer versions of the packages + install available updates for the OS release without updating OS to a higher version)
+
 # Conferences
 - [DEF CON](https://www.defcon.org/)
