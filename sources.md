@@ -194,6 +194,14 @@
   - ```apt-get install scrub``` (writes patterns on magnetic media to thwart data recovery)
   - ```apt-get install shutter``` (screenshot tool)
   - ```apt-get install figlet``` (a program for making large letters out of ordinary text)
+- Generating new SSH keys
+  ```
+  cd /etc/ssh
+  mkdir ssh_keys_backup
+  mv ssh_host_* ssh_keys_backup
+  dpkg-reconfigure openssh-server
+  ```
+  To start SSH: ```service ssh start``` 
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
