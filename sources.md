@@ -201,7 +201,13 @@
   mv ssh_host_* ssh_keys_backup
   dpkg-reconfigure openssh-server
   ```
-  ```service ssh start``` to start SSH and ```netstat -antp``` to verify the deamon is running
+  - ```service ssh start``` to start SSH
+  - ```netstat -antp``` to verify the deamon is running
+    - `-a`	This switch displays active TCP connections, TCP connections with the listening state, as well as UDP ports that are being listened to.
+    - `-n`	Use the -n switch to prevent netstat from attempting to determine host names for foreign IP addresses. Depending on your current network connections, using this switch could considerably reduce the time it takes for netstat to fully execute.
+    - `-p`	Use the -p switch to show connections or statistics only for a particular protocol. You can not define more than one protocol at once, nor can you execute netstat with -p without defining a protocol.
+    protocol 	When specifying a protocol with the -p option, you can use tcp, udp, tcpv6, or udpv6. If you use -s with -p to view statistics by protocol, you can use icmp, ip, icmpv6, or ipv6 in addition to the first four I mentioned.
+    - `-t`	Use the -t switch to show the current TCP chimney offload state in place of the typically displayed TCP state.
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
