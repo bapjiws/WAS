@@ -1,4 +1,5 @@
-- ```apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y```
+- Update
+```apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y```
 (update the list of available packages and their versions + install newer versions of the packages + install available updates for the OS release without updating OS to a higher version)
 - Additional commands
   - ```apt-get install preload``` (daemon that runs in the background and analyzes user behavior and frequently run applications)
@@ -24,3 +25,5 @@
     protocol 	When specifying a protocol with the -p option, you can use tcp, udp, tcpv6, or udpv6. If you use -s with -p to view statistics by protocol, you can use icmp, ip, icmpv6, or ipv6 in addition to the first four I mentioned.
     - `-t`	Use the -t switch to show the current TCP chimney offload state in place of the typically displayed TCP state.
 
+- Anonymous browsing
+```apt-get install tor```
