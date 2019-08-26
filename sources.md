@@ -11,10 +11,10 @@
   - [x] [Ethical Hacking: Enumeration](https://app.pluralsight.com/library/courses/ethical-hacking-enumeration)
   - [x] [Ethical Hacking: Sniffing](https://app.pluralsight.com/library/courses/ethical-hacking-sniffing)
   - [ ] [Ethical Hacking: Denial of Service](https://app.pluralsight.com/library/courses/ethical-hacking-denial-service)
-  - [ ] [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots) [WIP]
+  - [x] [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots)
   - [x] [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection)
   - [x] [Ethical Hacking: Session Hijacking](https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking/table-of-contents)
-  - [ ] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks)
+  - [ ] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks) [WIP]
   - [ ] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
   - [ ] [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
 
@@ -31,7 +31,9 @@
   - [ ] [Videos](https://www.hacker101.com/videos)
   - [ ] [Resources](https://www.hacker101.com/resources)
   
-- [ ] [Penetration Testing and Ethical Hacking with Kali Linux](https://www.pluralsight.com/courses/kali-linux-penetration-testing-ethical-hacking)
+- [ ] [Penetration Testing and Ethical Hacking with Kali Linux](https://www.pluralsight.com/courses/kali-linux-penetration-testing-ethical-hacking) [WIP]
+
+- [ ] [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
   
 # Sources
 - [Bugcrowd forums](https://forum.bugcrowd.com/c/ask-a-hacker)
