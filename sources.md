@@ -201,7 +201,7 @@
   mv ssh_host_* ssh_keys_backup
   dpkg-reconfigure openssh-server
   ```
-  To start SSH: ```service ssh start``` 
+  ```service ssh start``` to start SSH and ```netstat -antp``` to verify the deamon is running
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
