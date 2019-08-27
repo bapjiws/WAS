@@ -40,7 +40,7 @@
   
 # Tools
 ## Reconnaissance
-- Scraping
+- Subdomain enumeration (scraping)
   - Recon-ng
     - [in Kali](https://tools.kali.org/information-gathering/recon-ng)
     - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
