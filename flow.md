@@ -17,3 +17,6 @@
 8. Directory brute for top short list on SecLists
 9. Check upload functions for alternate file types that can execute code (xss or php/etc/etc)
 
+# My flow
+- Domain scraping - sublist3r
+- Domain bruteforcing - gobuster with list
