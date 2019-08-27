@@ -24,6 +24,8 @@
   ```gobuster dns -d website.com -t 50 -w SecLists/Discovery/DNS/deepmagic.com-prefixes-top50000.txt```
   ```gobuster dns -d website.com -t 50 -w SecLists/Discovery/DNS/subdomains-top1million-110000.txt```
 - port scanning - masscan/(Ze)nmap
-  
-- directory bruteforcing - gobuster with list
+- visual identification
+  Eyewitness
+- directory bruteforcing/content discovery - gobuster with list
   ```gobuster dir -u website.com -l -t 50 -w SecLists/Discovery/Web-Content/SVNDigger/all.txt```
+- parameter discovery
