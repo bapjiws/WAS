@@ -23,3 +23,7 @@
 - subomain bruteforcing - gobuster with list
   ```gobuster dns -d website.com -t 50 -w SecLists/Discovery/DNS/deepmagic.com-prefixes-top50000.txt```
   ```gobuster dns -d website.com -t 50 -w SecLists/Discovery/DNS/subdomains-top1million-110000.txt```
+  
+  
+- directory bruteforcing
+  ```gobuster dir -u website.com -l -t 50 -w SecLists/Discovery/Web-Content/SVNDigger/all.txt```
