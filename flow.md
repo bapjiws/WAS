@@ -18,5 +18,7 @@
 9. Check upload functions for alternate file types that can execute code (xss or php/etc/etc)
 
 # My flow
-- Domain scraping - sublist3r
-- Domain bruteforcing - gobuster with list
+- subdomain scraping - sublist3r
+- subomain bruteforcing - gobuster with list
+  ```gobuster dns -d mysite.com -t 50 -w SecLists/Discovery/DNS/deepmagic.com-prefixes-top50000.txt```
+  ```gobuster dns -d mysite.com -t 50 -w SecLists/Discovery/DNS/subdomains-top1million-110000.txt```
