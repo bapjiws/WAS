@@ -19,6 +19,7 @@
 
 # My flow
 - subdomain scraping - sublist3r
+  ```python sublist3r.py -d website.com```
 - subomain bruteforcing - gobuster with list
-  ```gobuster dns -d mysite.com -t 50 -w SecLists/Discovery/DNS/deepmagic.com-prefixes-top50000.txt```
-  ```gobuster dns -d mysite.com -t 50 -w SecLists/Discovery/DNS/subdomains-top1million-110000.txt```
+  ```gobuster dns -d website.com -t 50 -w SecLists/Discovery/DNS/deepmagic.com-prefixes-top50000.txt```
+  ```gobuster dns -d website.com -t 50 -w SecLists/Discovery/DNS/subdomains-top1million-110000.txt```
