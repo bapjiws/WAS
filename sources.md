@@ -80,7 +80,7 @@
   - gobuster + [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed), a curated list of the most common and most interesting robots.txt disallowed directories
 
 - Parameter bruting
-  - (parameth)[https://github.com/maK-/parameth], a tool  to brute discover GET and POST parameters
+  - (parameth)[https://github.com/maK-/parameth], a tool  to brute discover GET and POST parameters, can be paired with [params from backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner/blob/master/resources/params)
   
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 
