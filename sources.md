@@ -158,6 +158,10 @@
 - [ ] [Mastering Modern Web Penetration Testing](https://github.com/thecyberhex/books/blob/master/Mastering%20Modern%20Web%20Penetration%20Testing.pdf)
 - [ ] [Kali Linux Revealed – Mastering the Penetration Testing Distribution](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (or [the online course](https://kali.training/lessons/introduction/))
 
+# Articles
+- [ ][Top 20 Data Reconnaissance and Intel Gathering Tools](https://securitytrails.com/blog/top-20-intel-tools)
+- [ ] [Recon — my way.](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
+
 # Reconnaissance -- flow and tools
 - [ ] [GitHub for Bug Bounty Hunters](https://edoverflow.com/2017/github-for-bugbountyhunters/)
 - [ ] [Pentester Land](https://pentester.land/)
