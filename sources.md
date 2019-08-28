@@ -159,7 +159,7 @@
 - [ ] [Kali Linux Revealed – Mastering the Penetration Testing Distribution](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (or [the online course](https://kali.training/lessons/introduction/))
 
 # Articles
-- [ ][Top 20 Data Reconnaissance and Intel Gathering Tools](https://securitytrails.com/blog/top-20-intel-tools)
+- [ ] [Top 20 Data Reconnaissance and Intel Gathering Tools](https://securitytrails.com/blog/top-20-intel-tools)
 - [ ] [Recon — my way.](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
 
 # Reconnaissance -- flow and tools
