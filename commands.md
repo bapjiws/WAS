@@ -24,7 +24,7 @@ Make sure to put the quotes around your expression, else it might be interpreted
 
 ---
 
-```nmap -sS -A -PN -p- --script=http-title dontscanme.bro```
+```nmap -sS -A -Pn -p- --script=http-title dontscanme.bro```
 
 `-sS` (TCP SYN scan)
 SYN scan is the default and most popular scan option for good reasons. It can be performed quickly, scanning thousands of ports per second on a fast network not hampered by restrictive firewalls. It is also relatively unobtrusive and stealthy since it never completes TCP connections. SYN scan works against any compliant TCP stack rather than depending on idiosyncrasies of specific platforms as Nmap's FIN/NULL/Xmas, Maimon and idle scans do. It also allows clear, reliable differentiation between the open, closed, and filtered states.
