@@ -132,7 +132,9 @@
 
 
 # Vulnerable web apps/CTFs
-- [ ] [Hacker101 CTF](https://ctf.hacker101.com/ctf) [WIP]
+- [ ] Hacker101 CTF [WIP]
+  - [ ] [Challenges](https://ctf.hacker101.com/ctf) [WIP]
+  - [ ] [Hacker101 CTF Writeup](https://github.com/testerting/hacker101-ctf)
 
 - [ ] OWASP Juice Shop [WIP]
   - [ ] [Repo](https://github.com/bkimminich/juice-shop)
