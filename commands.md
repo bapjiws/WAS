@@ -42,3 +42,5 @@ Omit beginning and end numbers to scan the whole range (excluding zero).
 
 `--script=http-title` / `--script http-title`
  Get the title of the web page from a web server.
+ 
+ ```nc -z <IP> 20-500``` - port scanning with netcat
