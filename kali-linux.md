@@ -29,6 +29,7 @@
   - ```apt-get install tor```
   - edit `/etc/proxychains.conf`:
     - comment out `strict_chain`, uncomment `dynamic_chain`
+    - copy the line with `socks4` and paste it afterwards with `socks5`
   - ```service tor start```
   - ```proxychains firefox www.whatismyip.com```
  
