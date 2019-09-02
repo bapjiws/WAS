@@ -1,3 +1,6 @@
+# Best practices
+- [OWASP ASVS(Application Security Verification Standard)](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
+
 # Nomenclature
 - [Common Weakness Enumeration](https://cwe.mitre.org/)
 - [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
@@ -14,9 +17,9 @@
   - [x] [Ethical Hacking: Evading IDS, Firewalls, and Honeypots](https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots)
   - [x] [Ethical Hacking: SQL Injection](https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection)
   - [x] [Ethical Hacking: Session Hijacking](https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking/table-of-contents)
-  - [ ] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks) [WIP]
-  - [ ] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
-  - [ ] [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing)
+  - [x] [Ethical Hacking: Hacking Wireless Networks](https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks)
+  - [x] [Ethical Hacking: Cryptography](https://app.pluralsight.com/library/courses/ethical-hacking-cryptography-ceh)
+  - [ ] [Ethical Hacking: Penetration Testing](https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing) [WIP]
 
 - [x] [Software Security, selected](https://www.coursera.org/learn/software-security/)
   - [x] [Week 3, Web Security](https://www.coursera.org/learn/software-security/home/week/3)
