@@ -87,10 +87,20 @@
   
 - [Intrigue-core](https://github.com/intrigueio/intrigue-core), framework for external attack surface discovery and automated OSINT
 
+- [The Exploit Database](https://www.exploit-db.com/) -- exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
+
 - Directory brute-forcing lists
   - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
   - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
 - [recon.sh](https://github.com/jobertabma/recon.sh), a toolset to track and organize output of reconnaissance tools
+
+## Meta infotmation
+ - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/), a program for reading, writing, and manipulating image, audio, video, and PDF metadata
+ 
+## SSL analysis
+ - [SSL Server Test (Powered by Qualys SSL Labs](https://www.ssllabs.com/ssltest/), online service performs a deep analysis of the configuration of any SSL web server on the public Internet
+ 
+
 
 ## Network analysis
 - [Wireshark](https://www.wireshark.org/), network protocol analyzer
@@ -115,6 +125,7 @@
 - [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
 # Transport
 - [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links in Burp
+
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
