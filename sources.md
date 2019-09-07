@@ -112,6 +112,9 @@
 
 ## XSS
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
+- [XSS hunter](https://xsshunter.com)
+- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS), a collection of Awesome XSS resources
+
 ## SQLi
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 ## CSRF
