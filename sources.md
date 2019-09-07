@@ -99,7 +99,6 @@
  
 ## SSL analysis
  - [SSL Server Test (Powered by Qualys SSL Labs](https://www.ssllabs.com/ssltest/), online service performs a deep analysis of the configuration of any SSL web server on the public Internet
- 
 
 
 ## Network analysis
@@ -113,7 +112,8 @@
 ## XSS
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
 - [XSS hunter](https://xsshunter.com)
-- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS), a collection of Awesome XSS resources
+- [ ] [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS), a collection of Awesome XSS resources
+- [ ] [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
 ## SQLi
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
