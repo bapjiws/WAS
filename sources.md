@@ -129,6 +129,7 @@
 # Transport
 - [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links in Burp
 
+- [CyberChef](https://gchq.github.io/CyberChef/) -- a swiss army knife providing all kinds of encoding/decoding tools
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
