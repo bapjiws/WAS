@@ -119,6 +119,7 @@
 ## CSRF
 ## Fuzzing
 ### LFI
+- [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool [OLD]
 - [LFI-Jhaddix list](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-Jhaddix.txt)
 # Privilege
 # Transport
@@ -214,12 +215,15 @@
 - [Content Type Converter](https://github.com/portswigger/content-type-converter) --  converts data submitted within requests between various common formats
 - [Error Message Checks](https://github.com/portswigger/error-message-checks) -- passively reports detailed server error messages
 
-
+* * *
 
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
 - [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
 - [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links in Burp [OLD]
+- [Burpy](https://github.com/debasishm89/burpy), a tool for automating finding CSRF	[OLD]
+- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/blob/master/BurpExtensions/csrf_token_detect.py) to find pages without the token in Burp [OLD]
+
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
