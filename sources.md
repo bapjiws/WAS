@@ -204,6 +204,12 @@
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
 
 # Burp extensions
+- [How to install an Extension in Burp Suite](https://support.portswigger.net/customer/portal/articles/1965930-how-to-install-an-extension-in-burp-suite)
+
+- [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere) -- augments the in-scope proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
+- [ActiveScan++](https://github.com/portswigger/active-scan-plus-plus) -- extends Burp Suite's active and passive scanning capabilities
+- [Add Custom Header](https://github.com/portswigger/add-custom-header) -- extension to add a custom header (e.g. JWT)
+
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
 - [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
