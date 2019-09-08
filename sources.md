@@ -77,7 +77,7 @@
   - [Retire.js](https://retirejs.github.io/retire.js/)
   - [Wappalyzer](https://www.wappalyzer.com)
   - [BuiltWith](https://builtwith.com/)
-  - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
+
 
 - Content discovery / directory bruting
   - gobuster + [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed), a curated list of the most common and most interesting robots.txt disallowed directories
@@ -116,18 +116,13 @@
 - [ ] [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
 ## SQLi
-- [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 ## CSRF
-- [Burpy](https://github.com/debasishm89/burpy), a tool for automating finding CSRF
-- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/blob/master/BurpExtensions/csrf_token_detect.py) to find pages without the token in Burp
 ## Fuzzing
 ### LFI
-- [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool
 - [LFI-Jhaddix list](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-Jhaddix.txt)
 # Privilege
-- [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
 # Transport
-- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links in Burp
+
 
 - [CyberChef](https://gchq.github.io/CyberChef/) -- a swiss army knife providing all kinds of encoding/decoding tools
 
@@ -207,6 +202,12 @@
 - [Netsparker](https://www.netsparker.com/), web application security solution
 ## Free
 - [Kali Linux Tools Listing](https://tools.kali.org/tools-listing)
+
+# Burp extensions
+- [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
+- [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
+- [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
+- [Script](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL) to discover HTTP links in Burp [OLD]
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
