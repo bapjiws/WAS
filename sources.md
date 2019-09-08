@@ -206,9 +206,15 @@
 # Burp extensions
 - [How to install an Extension in Burp Suite](https://support.portswigger.net/customer/portal/articles/1965930-how-to-install-an-extension-in-burp-suite)
 
-- [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere) -- augments the in-scope proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
 - [ActiveScan++](https://github.com/portswigger/active-scan-plus-plus) -- extends Burp Suite's active and passive scanning capabilities
 - [Add Custom Header](https://github.com/portswigger/add-custom-header) -- extension to add a custom header (e.g. JWT)
+- [Attack Surface Detector](https://github.com/portswigger/attack-surface-detector) -- uses static code analyses to identify web app endpoints by parsing routes and identifying parameters (with supported languages and frameworks)
+- [AWS Security Checks](https://github.com/portswigger/aws-security-checks)
+- [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere) -- augments the in-scope proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
+- [Content Type Converter](https://github.com/portswigger/content-type-converter) --  converts data submitted within requests between various common formats
+- [Error Message Checks](https://github.com/portswigger/error-message-checks) -- passively reports detailed server error messages
+
+
 
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
