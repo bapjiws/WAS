@@ -214,6 +214,16 @@
 - [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere) -- augments the in-scope proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
 - [Content Type Converter](https://github.com/portswigger/content-type-converter) --  converts data submitted within requests between various common formats
 - [Error Message Checks](https://github.com/portswigger/error-message-checks) -- passively reports detailed server error messages
+- [ExifTool Scanner](https://github.com/portswigger/exiftool-scanner) -- reads metadata using ExifTool
+- [Flow](https://github.com/portswigger/flow) -- provides a Proxy history-like view along with search filter capabilities for all Burp tools
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 * * *
 
