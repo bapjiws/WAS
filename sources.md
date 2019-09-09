@@ -218,7 +218,9 @@
 - [Error Message Checks](https://github.com/portswigger/error-message-checks) -- passively reports detailed server error messages
 - [ExifTool Scanner](https://github.com/portswigger/exiftool-scanner) -- reads metadata using ExifTool
 - [Flow](https://github.com/portswigger/flow) -- provides a Proxy history-like view along with search filter capabilities for all Burp tools
-- []()
+
+
+- [JSON Web Token Attacker](https://github.com/portswigger/json-web-token-attacker) -- helps to test applications that use JavaScript Object Signing and Encryption, including JSON Web Tokens
 - []()
 - []()
 - []()
