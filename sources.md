@@ -57,6 +57,7 @@
     - [in Kali](https://tools.kali.org/web-applications/gobuster)
   - massdns, a high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
     - [repo](https://github.com/blechschmidt/massdns)
+  - [Commonspeak2 wordlists](https://github.com/assetnote/commonspeak2-wordlists) -- leverages publicly available datasets from Google BigQuery to generate content discovery and subdomain wordlists
   - [all wordlists from every DNS enumeration tool ever](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)
 
 - Port scanning
@@ -114,6 +115,7 @@
 - [XSS hunter](https://xsshunter.com)
 - [ ] [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS), a collection of Awesome XSS resources
 - [ ] [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
+- [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) + https://html5sec.org
 
 ## SQLi
 ## CSRF
