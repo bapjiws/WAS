@@ -144,8 +144,10 @@
 ## Other tools
 - [ ] [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 ## Fuzzing
-- [ ] [SecLists](https://github.com/danielmiessler/SecLists)
-- [ ] [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+- [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) -- A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
 ## Cheat Sheets
 - [ ] [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 
