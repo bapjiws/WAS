@@ -249,6 +249,11 @@ https://github.com/portswigger/json-web-tokens
 - [Burpy](https://github.com/debasishm89/burpy), a tool for automating finding CSRF	[OLD]
 - [Script](https://github.com/arvinddoraiswamy/mywebappscripts/blob/master/BurpExtensions/csrf_token_detect.py) to find pages without the token in Burp [OLD]
 
+# JWT
+- [JWT.IO](https://jwt.io/)
+- [RS256 vs HS256: What's the difference?](https://stackoverflow.com/questions/39239051/rs256-vs-hs256-whats-the-difference)
+- [Attacking JWT authentication](https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/)
+- [JWT Attack Walk-Through](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/january/jwt-attack-walk-through/)
 
 # Conferences
 - [DEF CON](https://www.defcon.org/)
