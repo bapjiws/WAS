@@ -238,6 +238,7 @@
 - [](https://github.com/portswigger/software-version-reporter) -- passively scan for applications revealing software version numbers
 https://github.com/portswigger/reflected-parameters old
 https://github.com/portswigger/param-miner
+https://github.com/portswigger/json-web-tokens
 
 * * *
 
