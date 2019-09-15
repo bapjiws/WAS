@@ -232,7 +232,7 @@
 - [Request Highlighter](https://github.com/portswigger/request-highlighter) -- an automatic way to highlight HTTP requests based on headers content (eg. Host, User-Agent, Cookies, Auth token, custom headers etc.)
 - [Logger++](https://github.com/portswigger/logger-plus-plus) -- log the requests and responses made by all Burp tools, and display them in a sortable table
 - [CSRF Scanner](https://github.com/portswigger/csrf-scanner) -- can be used to passively scan for CSRF (cross-site request forgery) vulnerabilities
-
+- [Autorize](https://github.com/portswigger/autorize) -- automatic authorization enforcement detection
 - [](https://github.com/portswigger/additional-scanner-checks) -- collection of scanner checks missing in Burp
 - [](https://github.com/portswigger/retire-js) -- integrate Retire.js repository to find vulnerable Javascript libraries
 - [](https://github.com/portswigger/software-vulnerability-scanner) -- Vulnerability scanner based on vulners.com search API
@@ -240,6 +240,7 @@
 https://github.com/portswigger/reflected-parameters old
 https://github.com/portswigger/param-miner
 https://github.com/portswigger/json-web-tokens
+
 
 * * *
 
