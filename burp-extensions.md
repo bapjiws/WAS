@@ -18,6 +18,7 @@
 - [Logger++](https://github.com/portswigger/logger-plus-plus) -- log the requests and responses made by all Burp tools, and display them in a sortable table
 - [CSRF Scanner](https://github.com/portswigger/csrf-scanner) -- can be used to passively scan for CSRF (cross-site request forgery) vulnerabilities
 - [Autorize](https://github.com/portswigger/autorize) -- automatic authorization enforcement detection
+- [AutoRepeater](https://github.com/portswigger/auto-repeater) -- automated HTTP request repeating
 - [](https://github.com/portswigger/additional-scanner-checks) -- collection of scanner checks missing in Burp
 - [](https://github.com/portswigger/retire-js) -- integrate Retire.js repository to find vulnerable Javascript libraries
 - [](https://github.com/portswigger/software-vulnerability-scanner) -- Vulnerability scanner based on vulners.com search API
