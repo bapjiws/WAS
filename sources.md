@@ -97,6 +97,9 @@
 
 - GitHub leaks
   - [Gitrob](https://github.com/michenriksen/gitrob) -- Reconnaissance tool for GitHub organizations
+  
+- Parse source code
+  - [JSParser](https://github.com/nahamsec/JSParser) -- parse relative URLs from JS files for discovering AJAX requests
 
 ## Meta infotmation
  - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/), a program for reading, writing, and manipulating image, audio, video, and PDF metadata
