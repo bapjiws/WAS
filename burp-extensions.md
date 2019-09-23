@@ -29,7 +29,7 @@ https://github.com/portswigger/json-web-tokens
 
 
 * * *
-
+-  [XSS Validator](https://github.com/portswigger/xss-validator) -- Intruder extender that is designed for automation and validation of XSS vulnerabilities [OLD]
 - [SQLMap for Burp](https://support.portswigger.net/customer/en/portal/articles/2791040-using-burp-with-sqlmap)
 - [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner)
 - [Autorize](https://github.com/Quitten/Autorize), an automatic authorization enforcement detection extension for Burp Suite
