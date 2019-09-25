@@ -1,4 +1,11 @@
 ```
+nslookup
+> server 208.67.222.222
+```
+
+---
+
+```
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://example.org
 ```
 or
