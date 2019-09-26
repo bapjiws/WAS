@@ -117,6 +117,7 @@
 - [Firewalk](https://tools.kali.org/information-gathering/firewalk)
 
 ## XSS
+- [XSStrike](https://github.com/s0md3v/XSStrike) --  a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler (in Kali)
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
 - [XSS hunter](https://xsshunter.com)
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS), a collection of Awesome XSS resources
