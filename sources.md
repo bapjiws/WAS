@@ -128,6 +128,8 @@
 ## SQLi
 ## CSRF
 - [Multi-Staged/Multi-Form CSRF](http://blog.opensecurityresearch.com/2014/05/multi-stagedmulti-form-csrf.html)
+## SSRF
+- [IP Address Converter](https://www.psyon.org/tools/ip_address_converter.php)
 ## Fuzzing
 ### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool [OLD]
