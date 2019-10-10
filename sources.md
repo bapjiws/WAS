@@ -125,6 +125,10 @@
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) + https://html5sec.org
 
+## Server-Side Template Injection/Code Injection
+- [tplmap](https://github.com/epinna/tplmap) -- Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+
+
 ## SQLi
 ## CSRF
 - [Multi-Staged/Multi-Form CSRF](http://blog.opensecurityresearch.com/2014/05/multi-stagedmulti-form-csrf.html)
