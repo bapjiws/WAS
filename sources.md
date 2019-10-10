@@ -97,6 +97,7 @@
 
 - GitHub leaks
   - [Gitrob](https://github.com/michenriksen/gitrob) -- Reconnaissance tool for GitHub organizations
+  - [truffleHog](https://github.com/dxa4481/truffleHog) -- searches through git repositories for high entropy strings and secrets, digging deep into commit history
   
 - Parse source code
   - [JSParser](https://github.com/nahamsec/JSParser) -- parse relative URLs from JS files for discovering AJAX requests
@@ -135,6 +136,9 @@
 ## SSRF
 - [IP Address Converter](https://www.psyon.org/tools/ip_address_converter.php)
 - [SSRF Bible cheatsheet](https://github.com/jivoi/offsec_pdfs/blob/master/SSRF-Bible-Cheatsheet.pdf)
+## Command injection
+- [commix](https://github.com/commixproject/commix) -- automated All-in-One OS command injection and exploitation tool
+
 ## Fuzzing
 ### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool [OLD]
