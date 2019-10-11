@@ -218,7 +218,7 @@
 ## Presentations
 - [x] [DEF CON 23 - Jason Haddix - How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI)
 - [x] [Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017](https://www.youtube.com/watch?v=C4ZHAdI8o1w&feature=youtu.be)
-- [ ] [The Bug Hunter's Methodology 2.0](https://www.youtube.com/watch?v=HI1mTQ7ovFY)
+- [x] [The Bug Hunter's Methodology 2.0](https://www.youtube.com/watch?v=HI1mTQ7ovFY)
 - [ ] [LevelUp 0x02 - Bug Bounty Hunter Methodology v3](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
 - [ ] [DEF CON 23 - Brent White - Hacking Web Apps](https://www.youtube.com/watch?v=I8AhfDEKUQ4)
 ## Resources
