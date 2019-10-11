@@ -139,6 +139,10 @@
 ## Command injection
 - [commix](https://github.com/commixproject/commix) -- automated All-in-One OS command injection and exploitation tool
 
+## Misc
+### Screenshots
+- [Flameshot](https://flameshot.js.org)
+
 ## Fuzzing
 ### LFI
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool [OLD]
