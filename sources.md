@@ -139,6 +139,10 @@
 ## Command injection
 - [commix](https://github.com/commixproject/commix) -- automated All-in-One OS command injection and exploitation tool
 
+## Subdomain takeover
+- [SubOver](https://github.com/Ice3man543/SubOver)
+- [tko-subs](https://github.com/anshumanbh/tko-subs) -- A tool that can help detect and takeover subdomains with dead DNS records
+
 ## Misc
 ### Screenshots
 - [Flameshot](https://flameshot.js.org)
