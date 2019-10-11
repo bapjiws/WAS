@@ -42,7 +42,7 @@ This technique is often referred to as half-open scanning, because you don't ope
 Detect OS and Services.
 
 `-Pn`
-Tells Nmap to skip the ping test and simply scan every target host provided. Other options for controlling host discovery are described in [Chapter 3, Host Discovery (“Ping Scanning”)](https://nmap.org/book/host-discovery.html).
+Don't ping the host first and simply scan every target host provided. Other options for controlling host discovery are described in [Chapter 3, Host Discovery (“Ping Scanning”)](https://nmap.org/book/host-discovery.html).
 
 `-p-`
 Omit beginning and end numbers to scan the whole range (excluding zero).
