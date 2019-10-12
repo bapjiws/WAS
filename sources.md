@@ -153,6 +153,8 @@
 ## Security misconfiguration
 - Subdomain takeover
   - [Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) -- a list of services and how to claim (sub)domains with dangling DNS records
+  - [Knockpy](https://github.com/guelfoweb/knock) -- subdomain scan
+  - [Certificate Search](crt.sh)
   - [SubOver](https://github.com/Ice3man543/SubOver)
   - [tko-subs](https://github.com/anshumanbh/tko-subs) -- A tool that can help detect and takeover subdomains with dead DNS records
 - AWS
