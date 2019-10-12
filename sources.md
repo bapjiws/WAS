@@ -42,12 +42,14 @@
 - [Bugcrowd forums](https://forum.bugcrowd.com/c/ask-a-hacker)
   
 # Tools
-## Discovering IP space
-- [Hurricane Electric BGP Toolkit](https://bgp.he.net/) -- autonomous system number
-- [RIPE Database Text Search](https://apps.db.ripe.net/db-web-ui/#/fulltextsearch)
-- [American Registry for Internet Numbers](https://whois.arin.net/ui/query.do)
-- []()
+
 ## Reconnaissance
+- Discovering IP space
+  - [Hurricane Electric BGP Toolkit](https://bgp.he.net/) -- autonomous system number
+  - [RIPE Database Text Search](https://apps.db.ripe.net/db-web-ui/#/fulltextsearch)
+  - [American Registry for Internet Numbers](https://whois.arin.net/ui/query.do)
+  - [Shodan](https://www.shodan.io/), search engine for Internet-connected devices
+
 - Subdomain enumeration (scraping)
   - Recon-ng
     - [in Kali](https://tools.kali.org/information-gathering/recon-ng)
@@ -71,8 +73,15 @@
     - [in Kali](https://tools.kali.org/information-gathering/masscan)
   - nmap (much slower)
 
-- Info like acquisition
-  - [Crunchbase](https://www.crunchbase.com/), discover innovative companies and the people behind them
+- Discovering New Targets (Brands & TLDs)
+  - Acquisition
+    - Wikipedia
+    - [Crunchbase](https://www.crunchbase.com/) -- discover innovative companies and the people behind them
+  - Linked discovery
+    - Burp
+  - Weighted link and reverse tracker analysis
+    - BuiltWith (also below)
+    - [DomLink](https://github.com/vysecurity/DomLink) -- a tool to link a domain with registered organisation names and emails, to other domains
 
 - Visual identification
   - EyeWitness -- take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
@@ -237,7 +246,6 @@
 ## Commercial
 - [Metasploit](https://www.metasploit.com/), penetration testing framework
 - [Nessus](https://www.tenable.com/products/nessus), vulnerability assessment
-- [Shodan](https://www.shodan.io/), search engine for Internet-connected devices
 - [Acunetix,](https://www.acunetix.com/) website security scanner
 - [Netsparker](https://www.netsparker.com/), web application security solution
 ## Free
