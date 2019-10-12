@@ -97,6 +97,7 @@
   - directory brute-forcing lists
     - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed)
     - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
+    - [jhaddix/content_discovery_all.txt](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10) -- RobotsDisallowed + RAFT
     - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
 
 - Parameter bruting
@@ -106,12 +107,6 @@
 
 - [The Exploit Database](https://www.exploit-db.com/) -- exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
 
-
-
-- GitHub leaks
-  - [Gitrob](https://github.com/michenriksen/gitrob) -- Reconnaissance tool for GitHub organizations
-  - [truffleHog](https://github.com/dxa4481/truffleHog) -- searches through git repositories for high entropy strings and secrets, digging deep into commit history
-  
 
 ## Meta infotmation
  - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/), a program for reading, writing, and manipulating image, audio, video, and PDF metadata
@@ -131,11 +126,15 @@
 ## XSS
 - [XSStrike](https://github.com/s0md3v/XSStrike) --  a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler (in Kali)
 - [XSS polyglots](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/Polyglots/XSS-Polyglots.txt)
-- [XSS hunter](https://xsshunter.com)
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS), a collection of Awesome XSS resources
 - [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) + https://html5sec.org
+
+- Blind XSS
+  - [XSS hunter](https://xsshunter.com)
+  - [ezXSS](https://github.com/ssl/ezXSS)
+  - [bXSS](https://github.com/LewisArdern/bXSS)
 
 ## Server-Side Template Injection/Code Injection
 - [tplmap](https://github.com/epinna/tplmap) -- Server-Side Template Injection and Code Injection Detection and Exploitation Tool
@@ -145,28 +144,35 @@
 ## CSRF
 - [Multi-Staged/Multi-Form CSRF](http://blog.opensecurityresearch.com/2014/05/multi-stagedmulti-form-csrf.html)
 ## SSRF
+- [jhaddix/cloud_metadata.txt](https://gist.github.com/jhaddix/78cece26c91c6263653f31ba453e273b) -- Cloud Metadata Dictionary useful for SSRF Testing
 - [IP Address Converter](https://www.psyon.org/tools/ip_address_converter.php)
 - [SSRF Bible cheatsheet](https://github.com/jivoi/offsec_pdfs/blob/master/SSRF-Bible-Cheatsheet.pdf)
 ## Command injection
 - [commix](https://github.com/commixproject/commix) -- automated All-in-One OS command injection and exploitation tool
 
-## Subdomain takeover
-- [SubOver](https://github.com/Ice3man543/SubOver)
-- [tko-subs](https://github.com/anshumanbh/tko-subs) -- A tool that can help detect and takeover subdomains with dead DNS records
+## Security misconfiguration
+- Subdomain takeover
+  - [Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) -- a list of services and how to claim (sub)domains with dangling DNS records
+  - [SubOver](https://github.com/Ice3man543/SubOver)
+  - [tko-subs](https://github.com/anshumanbh/tko-subs) -- A tool that can help detect and takeover subdomains with dead DNS records
+- AWS
+  - [S3Scanner](https://github.com/sa7mon/S3Scanner) -- a tool to find open S3 buckets and dump their contents
+- GitHub
+  - [Gitrob](https://github.com/michenriksen/gitrob) -- reconnaissance tool for GitHub organizations
+  - [truffleHog](https://github.com/dxa4481/truffleHog) -- searches through Git repositories for high entropy strings and secrets, digging deep into commit history
 
 ## Misc
 ### Screenshots
 - [Flameshot](https://flameshot.js.org)
+- [CyberChef](https://gchq.github.io/CyberChef/) -- a swiss army knife providing all kinds of encoding/decoding tools
+
+
 
 ## Fuzzing
-### LFI
+### LFI -- double-check
 - [Liffy](https://github.com/hvqzao/liffy), Local File Inclusion Exploitation tool [OLD]
 - [LFI-Jhaddix list](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-Jhaddix.txt)
-# Privilege
-# Transport
 
-
-- [CyberChef](https://gchq.github.io/CyberChef/) -- a swiss army knife providing all kinds of encoding/decoding tools
 
 ## Swiss-army-knife proxies
 - [ ] Burp Suite [WIP]
