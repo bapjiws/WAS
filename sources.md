@@ -63,29 +63,19 @@
 - Subdomain enumeration (scraping)
   - [Amass](https://github.com/OWASP/Amass) -- in-depth attack surface mapping and asset discovery
   - [subfinder](https://github.com/subfinder/subfinder) --  a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing
-  
-
 
 - Subdomain bruteforcing
-  - gobuster, directory/file, DNS and VHost busting tool 
-    - [repo](https://github.com/OJ/gobuster)
-    - [in Kali](https://tools.kali.org/web-applications/gobuster)
-  - massdns, a high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-    - [repo](https://github.com/blechschmidt/massdns)
+  - [massdns](https://github.com/blechschmidt/massdns) -- a high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+  - [gobuster](https://github.com/OJ/gobuster) -- directory/file, DNS and VHost busting tool
   - [Commonspeak2 wordlists](https://github.com/assetnote/commonspeak2-wordlists) -- leverages publicly available datasets from Google BigQuery to generate content discovery and subdomain wordlists
   - [all wordlists from every DNS enumeration tool ever](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)
 
 - Port scanning
-  - masscan
-    - [repo](https://github.com/robertdavidgraham/masscan)
-    - [in Kali](https://tools.kali.org/information-gathering/masscan)
+  - [masscan](https://github.com/robertdavidgraham/masscan)
   - nmap (much slower)
 
-
 - Visual identification
-  - EyeWitness -- take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
-    - [repo](https://github.com/FortyNorthSecurity/EyeWitness)
-    - [in Kali](https://tools.kali.org/information-gathering/eyewitness)
+  - [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) -- take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
 
 - Platform identification and CVE searching
   - [Retire.js](https://retirejs.github.io/retire.js/)
