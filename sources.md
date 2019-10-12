@@ -63,12 +63,7 @@
 - Subdomain enumeration (scraping)
   - [Amass](https://github.com/OWASP/Amass) -- in-depth attack surface mapping and asset discovery
   - [subfinder](https://github.com/subfinder/subfinder) --  a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing
-  - [Sublist3r](https://github.com/aboul3la/Sublist3r) -- fast subdomains enumeration tool
-  - Recon-ng
-    - [in Kali](https://tools.kali.org/information-gathering/recon-ng)
-    - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
-    - [Tutorial](https://hackertarget.com/recon-ng-tutorial/)
-    - [Repo](https://github.com/lanmaster53/recon-ng) + [installation fix](https://stackoverflow.com/a/50868994/4134960)
+  
 
 
 - Subdomain bruteforcing
@@ -85,7 +80,6 @@
     - [repo](https://github.com/robertdavidgraham/masscan)
     - [in Kali](https://tools.kali.org/information-gathering/masscan)
   - nmap (much slower)
-
 
 
 - Visual identification
