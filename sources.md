@@ -83,14 +83,21 @@
 - Wayback enumeration
   - [waybackurls](https://github.com/tomnomnom/waybackurls) -- fetch all the URLs that the Wayback Machine knows about for a domain
 
-
 - Platform identification and CVE searching
   - [Retire.js](https://retirejs.github.io/retire.js/)
   - [Wappalyzer](https://www.wappalyzer.com)
   - [BuiltWith](https://builtwith.com/)
+  
+- Parse source code
+  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) -- a Python script that finds endpoints in JavaScript files
+  - [JSParser](https://github.com/nahamsec/JSParser) -- parse relative URLs from JS files for discovering AJAX requests
 
 - Content discovery / directory bruting
-  - gobuster + [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed), a curated list of the most common and most interesting robots.txt disallowed directories
+  - gobuster
+  - directory brute-forcing lists
+    - [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed)
+    - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
+    - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
 
 - Parameter bruting
   - (parameth)[https://github.com/maK-/parameth], a tool  to brute discover GET and POST parameters, can be paired with [params from backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner/blob/master/resources/params)
@@ -99,17 +106,12 @@
 
 - [The Exploit Database](https://www.exploit-db.com/) -- exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
 
-- Directory brute-forcing lists
-  - [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
-  - [SVN Digger](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content/SVNDigger)
-- [recon.sh](https://github.com/jobertabma/recon.sh), a toolset to track and organize output of reconnaissance tools
+
 
 - GitHub leaks
   - [Gitrob](https://github.com/michenriksen/gitrob) -- Reconnaissance tool for GitHub organizations
   - [truffleHog](https://github.com/dxa4481/truffleHog) -- searches through git repositories for high entropy strings and secrets, digging deep into commit history
   
-- Parse source code
-  - [JSParser](https://github.com/nahamsec/JSParser) -- parse relative URLs from JS files for discovering AJAX requests
 
 ## Meta infotmation
  - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/), a program for reading, writing, and manipulating image, audio, video, and PDF metadata
