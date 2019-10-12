@@ -50,13 +50,26 @@
   - [American Registry for Internet Numbers](https://whois.arin.net/ui/query.do)
   - [Shodan](https://www.shodan.io/), search engine for Internet-connected devices
 
+- Discovering New Targets (Brands & TLDs)
+  - Acquisition
+    - Wikipedia
+    - [Crunchbase](https://www.crunchbase.com/) -- discover innovative companies and the people behind them
+  - Linked discovery
+    - Burp
+  - Weighted link and reverse tracker analysis
+    - BuiltWith (also below)
+    - [DomLink](https://github.com/vysecurity/DomLink) -- a tool to link a domain with registered organisation names and emails, to other domains
+
 - Subdomain enumeration (scraping)
+  - [Amass](https://github.com/OWASP/Amass) -- in-depth attack surface mapping and asset discovery
+  - [subfinder](https://github.com/subfinder/subfinder) --  a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing
+  - [Sublist3r](https://github.com/aboul3la/Sublist3r) -- fast subdomains enumeration tool
   - Recon-ng
     - [in Kali](https://tools.kali.org/information-gathering/recon-ng)
     - [Setup script for Regon-ng](https://github.com/jhaddix/domain)
     - [Tutorial](https://hackertarget.com/recon-ng-tutorial/)
     - [Repo](https://github.com/lanmaster53/recon-ng) + [installation fix](https://stackoverflow.com/a/50868994/4134960)
-  - [Sublist3r](https://github.com/aboul3la/Sublist3r), fast subdomains enumeration tool
+
 
 - Subdomain bruteforcing
   - gobuster, directory/file, DNS and VHost busting tool 
@@ -73,15 +86,7 @@
     - [in Kali](https://tools.kali.org/information-gathering/masscan)
   - nmap (much slower)
 
-- Discovering New Targets (Brands & TLDs)
-  - Acquisition
-    - Wikipedia
-    - [Crunchbase](https://www.crunchbase.com/) -- discover innovative companies and the people behind them
-  - Linked discovery
-    - Burp
-  - Weighted link and reverse tracker analysis
-    - BuiltWith (also below)
-    - [DomLink](https://github.com/vysecurity/DomLink) -- a tool to link a domain with registered organisation names and emails, to other domains
+
 
 - Visual identification
   - EyeWitness -- take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
@@ -92,7 +97,6 @@
   - [Retire.js](https://retirejs.github.io/retire.js/)
   - [Wappalyzer](https://www.wappalyzer.com)
   - [BuiltWith](https://builtwith.com/)
-
 
 - Content discovery / directory bruting
   - gobuster + [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed), a curated list of the most common and most interesting robots.txt disallowed directories
