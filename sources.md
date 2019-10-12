@@ -42,6 +42,11 @@
 - [Bugcrowd forums](https://forum.bugcrowd.com/c/ask-a-hacker)
   
 # Tools
+## Discovering IP space
+- [Hurricane Electric BGP Toolkit](https://bgp.he.net/) -- autonomous system number
+- [RIPE Database Text Search](https://apps.db.ripe.net/db-web-ui/#/fulltextsearch)
+- [American Registry for Internet Numbers](https://whois.arin.net/ui/query.do)
+- []()
 ## Reconnaissance
 - Subdomain enumeration (scraping)
   - Recon-ng
