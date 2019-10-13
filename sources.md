@@ -44,6 +44,8 @@
 # Tools
 
 ## Reconnaissance
+- [Censys](https://censys.io/)
+
 - Discovering IP space
   - [Hurricane Electric BGP Toolkit](https://bgp.he.net/) -- autonomous system number
   - [RIPE Database Text Search](https://apps.db.ripe.net/db-web-ui/#/fulltextsearch)
