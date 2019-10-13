@@ -44,7 +44,9 @@
 # Tools
 
 ## Reconnaissance
-- [Censys](https://censys.io/)
+- General tools
+  - [Censys](https://censys.io/) -- a search engine that enables researchers to ask questions about the hosts and networks that compose the Internet
+  - [Certificate Search](https://crt.sh) -- a search site for browsing Certificate Transaction logs, revealing sub domains associated with certificates
 
 - Discovering IP space
   - [Hurricane Electric BGP Toolkit](https://bgp.he.net/) -- autonomous system number
@@ -109,13 +111,11 @@
 
 - [The Exploit Database](https://www.exploit-db.com/) -- exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
 
-
 ## Meta infotmation
  - [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/), a program for reading, writing, and manipulating image, audio, video, and PDF metadata
  
 ## SSL analysis
  - [SSL Server Test (Powered by Qualys SSL Labs](https://www.ssllabs.com/ssltest/), online service performs a deep analysis of the configuration of any SSL web server on the public Internet
-
 
 ## Network analysis
 - [Wireshark](https://www.wireshark.org/), network protocol analyzer
@@ -141,7 +141,6 @@
 ## Server-Side Template Injection/Code Injection
 - [tplmap](https://github.com/epinna/tplmap) -- Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 
-
 ## SQLi
 ## CSRF
 - [Multi-Staged/Multi-Form CSRF](http://blog.opensecurityresearch.com/2014/05/multi-stagedmulti-form-csrf.html)
@@ -156,7 +155,7 @@
 - Subdomain takeover
   - [Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) -- a list of services and how to claim (sub)domains with dangling DNS records
   - [Knockpy](https://github.com/guelfoweb/knock) -- subdomain scan
-  - [Certificate Search](crt.sh)
+  - Google Dorks (site: `*.hackerone.com`)
   - [SubOver](https://github.com/Ice3man543/SubOver)
   - [tko-subs](https://github.com/anshumanbh/tko-subs) -- A tool that can help detect and takeover subdomains with dead DNS records
 - AWS
@@ -169,8 +168,6 @@
 ### Screenshots
 - [Flameshot](https://flameshot.js.org)
 - [CyberChef](https://gchq.github.io/CyberChef/) -- a swiss army knife providing all kinds of encoding/decoding tools
-
-
 
 ## Fuzzing
 ### LFI -- double-check
